@@ -1,0 +1,10 @@
+C:\Users\adamo\source\repos\GOST ver 1.0\GOST ver 1.0\obj\Debug\GOST ver 1.0.csprojResolveAssemblyReference.cache
+C:\Users\adamo\source\repos\GOST ver 1.0\GOST ver 1.0\obj\Debug\GOST_ver_1._0.Properties.Resources.resources
+C:\Users\adamo\source\repos\GOST ver 1.0\GOST ver 1.0\obj\Debug\GOST ver 1.0.csproj.GenerateResource.Cache
+C:\Users\adamo\source\repos\GOST ver 1.0\GOST ver 1.0\obj\Debug\GOST ver 1.0.csproj.CoreCompileInputs.cache
+C:\Users\adamo\source\repos\GOST ver 1.0\GOST ver 1.0\bin\Debug\GOST ver 1.0.exe.config
+C:\Users\adamo\source\repos\GOST ver 1.0\GOST ver 1.0\bin\Debug\GOST ver 1.0.exe
+C:\Users\adamo\source\repos\GOST ver 1.0\GOST ver 1.0\bin\Debug\GOST ver 1.0.pdb
+C:\Users\adamo\source\repos\GOST ver 1.0\GOST ver 1.0\obj\Debug\GOST ver 1.0.exe
+C:\Users\adamo\source\repos\GOST ver 1.0\GOST ver 1.0\obj\Debug\GOST ver 1.0.pdb
+C:\Users\adamo\source\repos\GOST ver 1.0\GOST ver 1.0\obj\Debug\GOST_ver_1._0.Form1.resources
